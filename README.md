@@ -4,4 +4,4 @@
 # Pristupni podaci za aplikaciju (vrijedi do 14.7.2026):
 Username: 11310637
 Password: 60-dayfreetrial
-# Projekat je vecinskim dijelom zasnovan na online trgovinama kao što su laptopi.ba kao i olx.ba 
+# Projekat je vecinskim dijelom zasnovan na online trgovinama kao što su laptopi.ba kao i olx.ba.
